@@ -13,7 +13,7 @@
 
 
 
-    歡迎來到糖果洞穴……
+    歡迎來到糖果洞窟……
 
     • {綜合介紹|candy_cavity/general.json}
     • {自然資源|candy_cavity/resources.json}
