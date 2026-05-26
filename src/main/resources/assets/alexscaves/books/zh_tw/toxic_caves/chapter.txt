@@ -13,7 +13,7 @@
 
 
 
-    歡迎來到毒化洞穴……
+    歡迎來到毒化洞窟……
 
     • {綜合介紹|toxic_caves/general.json}
     • {自然資源|toxic_caves/resources.json}
