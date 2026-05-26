@@ -13,7 +13,7 @@
 
 
 
-    歡迎來到磁場洞穴……
+    歡迎來到磁場洞窟……
 
     • {綜合介紹|magnetic_caves/general.json}
     • {自然資源|magnetic_caves/resources.json}
